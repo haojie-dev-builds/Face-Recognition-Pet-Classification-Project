@@ -1,1 +1,1 @@
-# Face-Recognition-Pet-Classification-Project
+# Computer-Vision-Project-2025
